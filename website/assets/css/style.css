@@ -2,7 +2,7 @@ body{
     background: #BDBDBD;
 }
 
-/* TAGLINE STYLES */
+/* TAGLINE STYLES  */
 .background-custom {
     background-image: url(../img/bg.jpg);
     background-size: cover;
@@ -32,4 +32,4 @@ body{
     width: 98%;
     margin: auto;
 }
-/* CLOSE TAGLINE STYLE*/
+/* - CLOSE TAGLINE STYLE - */
