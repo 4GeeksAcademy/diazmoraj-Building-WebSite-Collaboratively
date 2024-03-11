@@ -2,6 +2,9 @@ body{
     background: #BDBDBD;
 }
 
+
+/* - TAGLINE STYLES - */
+
 .img {
     width: 300px;
     height: 300px;
@@ -27,11 +30,13 @@ body{
     background-repeat: no-repeat;
     border-radius: 50%;
 } */
-=======
+
 
 /* TAGLINE STYLES  */
+
 .background-custom {
-    background-image: url(../img/bg.jpg);
+    /* background-image: url(../img/bg.jpg); */
+    background-image: url(https://res.cloudinary.com/djpifu0cl/image/upload/v1709777973/new-york-img_l6wbss.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
