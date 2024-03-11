@@ -1,3 +1,36 @@
-body {
-    background: white;
+body{
+    background: #BDBDBD;
 }
+
+/* TAGLINE STYLES  */
+.background-custom {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 41rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.tagline-title {
+    font-size: 6.5rem;
+}
+.tagline-subtitle {
+    font-size: 3.7rem;
+    padding: 20px;
+}
+.position-custom-title {
+    width: 98%;
+    position: absolute;
+    top: 40px;
+    margin: auto;
+}
+.position-custom-subtitle {
+    position: absolute;
+    top: 11.8rem;
+    width: 98%;
+    margin: auto;
+}
+/* - CLOSE TAGLINE STYLE - */
+
