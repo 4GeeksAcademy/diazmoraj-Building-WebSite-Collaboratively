@@ -2,6 +2,33 @@ body{
     background: #BDBDBD;
 }
 
+.img {
+    width: 300px;
+    height: 300px;
+}
+.hr-services-first {
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+.hr-services-second {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.font-custom {
+    font-weight: 300;
+}
+
+/* .image-services-custom {
+    background-image: url(../img/2.jpg);
+    
+    width: 500px;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+} */
+=======
+
 /* TAGLINE STYLES  */
 .background-custom {
     background-image: url(../img/bg.jpg);
