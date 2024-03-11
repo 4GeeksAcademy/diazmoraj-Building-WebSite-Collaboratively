@@ -2,67 +2,10 @@ body{
     background: #BDBDBD;
 }
 
-
-/* - TAGLINE STYLES - */
-
-.img {
-    width: 300px;
-    height: 300px;
-}
-.hr-services-first {
-    margin-top: 1rem;
-    margin-bottom: 4rem;
-}
-.hr-services-second {
+.hr-services {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-.font-custom {
+.font-custom-services {
     font-weight: 300;
 }
-
-/* .image-services-custom {
-    background-image: url(../img/2.jpg);
-    
-    width: 500px;
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-radius: 50%;
-} */
-
-
-/* TAGLINE STYLES  */
-
-.background-custom {
-    /* background-image: url(../img/bg.jpg); */
-    background-image: url(https://res.cloudinary.com/djpifu0cl/image/upload/v1709777973/new-york-img_l6wbss.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 41rem;
-    position: relative;
-    display: flex;
-    justify-content: center;
-}
-.tagline-title {
-    font-size: 6.5rem;
-}
-.tagline-subtitle {
-    font-size: 3.7rem;
-    padding: 20px;
-}
-.position-custom-title {
-    width: 98%;
-    position: absolute;
-    top: 40px;
-    margin: auto;
-}
-.position-custom-subtitle {
-    position: absolute;
-    top: 11.8rem;
-    width: 98%;
-    margin: auto;
-}
-/* - CLOSE TAGLINE STYLE - */
-
