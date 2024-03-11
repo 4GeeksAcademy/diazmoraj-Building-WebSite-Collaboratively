@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 
 /* TAGLINE STYLES. */
@@ -15,22 +15,55 @@ body{
     justify-content: center;
 }
 .tagline-title {
-    font-size: 6.5rem;
+    font-size: 6rem;
 }
 .tagline-subtitle {
-    font-size: 3.7rem;
-    padding: 20px;
+    font-size: 3.2rem;
+    padding: 2px;
 }
 .position-custom-title {
     width: 98%;
     position: absolute;
-    top: 40px;
+    top: 4rem;
     margin: auto;
 }
 .position-custom-subtitle {
     position: absolute;
-    top: 11.8rem;
+    top: 12.7rem;
     width: 98%;
     margin: auto;
 }
+
+@media(max-width:968px) {
+    .tagline-title {
+        font-size: 4.5rem;
+    }
+    .tagline-subtitle {
+        font-size: 2.5rem;
+        padding: 5px;
+    }
+    .position-custom-title {
+        width: 98%;
+        position: absolute;
+        top: 5.5rem;
+        margin: auto;
+    }
+    .position-custom-subtitle {
+        position: absolute;
+        top: 12.5rem;
+        width: 98%;
+        margin: auto;
+}
+}
 /* CLOSE TAGLINE STYLES. */
+
+
+/* SERVICES STYLES. */
+.hr-services {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.font-custom-services {
+    font-weight: 300;
+}
+/* CLOSE SERVICES STYLES. */
