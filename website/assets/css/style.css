@@ -13,10 +13,15 @@ body{
     position: relative;
     display: flex;
     justify-content: center;
+
+.hr-services {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
-.tagline-title {
-    font-size: 6.5rem;
+.font-custom-services {
+    font-weight: 300;
 }
+
 .tagline-subtitle {
     font-size: 3.7rem;
     padding: 20px;
@@ -34,3 +39,4 @@ body{
     margin: auto;
 }
 /* CLOSE TAGLINE STYLES. */
+
