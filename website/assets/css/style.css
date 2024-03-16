@@ -4,7 +4,6 @@ body{
 
 /* TAGLINE STYLES. */
 .background-custom {
-    /* background-image: url(../img/bg.jpg); */
     background-image: url(https://res.cloudinary.com/djpifu0cl/image/upload/v1709777973/new-york-img_l6wbss.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -13,18 +12,18 @@ body{
     position: relative;
     display: flex;
     justify-content: center;
-
-.hr-services {
+}
+/* .hr-services {
     margin-top: 1rem;
     margin-bottom: 1rem;
-}
+} */
 
 .tagline-title {
     font-size: 6rem;
 }
-.font-custom-services {
+/* .font-custom-services {
     font-weight: 300;
-}
+} */
 
 .tagline-subtitle {
     font-size: 3.2rem;
@@ -68,12 +67,12 @@ body{
 
 
 /* SERVICES STYLES. */
-.hr-services {
+/* .hr-services {
     margin-top: 1rem;
     margin-bottom: 1rem;
-}
-.font-custom-services {
+} */
+/* .font-custom-services {
     font-weight: 300;
-}
+} */
 /* CLOSE SERVICES STYLES. */
 
